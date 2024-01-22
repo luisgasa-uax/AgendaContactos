@@ -7,4 +7,5 @@ import java.util.List;
 public interface GestorContactosInterface {
     public List<Contacto> cargarContactos();
     public void guarContactos(List<Contacto> contactos);
+    //
 }
